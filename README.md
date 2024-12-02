@@ -1,5 +1,9 @@
 # HR Analytics Dashboard: Employee Attrition and Satisfaction Analysis  
 
+### Project live Report:https://public.tableau.com/app/profile/rishi.p4639/viz/HRAnalyticsDashboard_17322083531800/HRSUMMARY
+
+![Screenshot (319)](https://github.com/user-attachments/assets/6186e012-f807-48d1-9527-c95ed081a789)
+
 ## Overview  
 This project provides a comprehensive **HR Analytics Dashboard** created using Tableau. The dashboard visualizes key metrics related to employee demographics, attrition trends, income distribution, job satisfaction, and work-life balance. It is designed to enable HR professionals to identify critical patterns, make data-driven decisions, and improve employee retention and satisfaction strategies.  
 
@@ -23,34 +27,35 @@ This project provides a comprehensive **HR Analytics Dashboard** created using T
 
 ### Department-Wise Insights  
 - Departments with the highest attrition rates:  
-  - Sales: **50.98%**  
-  - Human Resources: **50.81%**  
-  - Software: **50.18%**  
+  - R & D: **51.21%**  
+  - Software: **50.54%**  
+  - Support: **50.19%**  
 
 ### Income Range vs. Attrition  
 - Attrition is highest among employees earning **10K-50K**, with the following breakdown:  
   - 40K-50K: **5,062**  
   - 30K-40K: **5,028**  
-  - 20K-30K: **5,023**  
-  - 10K-20K: **4,517**  
+  - 20K-30K: **5,060**  
+  - 10K-20K: **4,930**  
 - Employees earning **50K+** have significantly lower attrition, with only **507 attritions** in the 50K-60K range.  
 
 ### Job Role and Income Analysis  
 - **High Salary Roles:**  
-  - Healthcare Representatives  
-  - Developers  
+  - Manager  
+  - Healthcare Representatives 
   - Sales Representatives  
-- **Manufacturing Directors** have the highest average salary but report poor job satisfaction.  
+- **Manufacturing Directors** have high average salary but report poor job satisfaction.  
 
 ### Work-Life Balance and Satisfaction  
 - Roles with **high satisfaction and better work-life balance:**  
   - Healthcare Representatives  
-  - Developers  
+  - Developers
+  - Research Scientist
 - **Slightly lower work-life balance:** Sales Executives  
 - **Poorest job satisfaction:** Manufacturing Directors  
 
 ## Key Takeaways  
-- Attrition rate is high across the organization, especially in the Sales, HR, and Software departments.  
+- Attrition rate is high across the organization, especially in the R & D, Software, and Support departments.  
 - Employees earning less than 50K are more likely to leave, with the 40K-50K income range seeing the highest attrition.  
 - Healthcare Representatives and Developers experience both high salaries and better work-life balance, making them less prone to attrition.  
 - Manufacturing Directors require intervention to improve job satisfaction.  
